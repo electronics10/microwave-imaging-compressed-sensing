@@ -16,3 +16,4 @@ The method and the original code are by **Hsin-Jung Yang (楊欣融)**, from his
 
 - Simulation setup (Altair FEKO): https://hackmd.io/@clement0917/imagingreadme#Simulation-Setup-using-Altair-FEKO
 - Run `python twoD_Holography.py` or `python threeD_Holography.py`; settings are in `twoD_settings.py` / `threeD_settings.py`.
+- A short report is provided [here](compressed-sensing-report.pdf) (credit to Hsin-Jung Yang).
